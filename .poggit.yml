@@ -1,0 +1,5 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/pietro21x/Pocketmine-Version-1.2.7-Worked
+branches:
+- master
+projects: []
+...
