@@ -1,2 +1,5 @@
 # Pocketmine-Version-1.2.7-Worked
-The Pocketmine Version 1.2.7
+
+YOU CAN DOWNLOAD FILE ON THE URL DOWN:
+
+http://www.mediafire.com/file/0fh4szq42bat2ou/PocketMine-MPByPietro21x.phar
